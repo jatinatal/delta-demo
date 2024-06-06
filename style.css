@@ -4,6 +4,11 @@ h1 {
 }
 p {
   line-height: 1em;
-  color: cyan;
+  color: #07bd8f;
   text-transform: capitalize;
+}
+button {
+  color: 07bd8f;
+  padding: 10px 20px;
+  background-color: #dadada;
 }
